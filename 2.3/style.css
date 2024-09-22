@@ -1,0 +1,13 @@
+body{
+    margin: 10px;
+    
+}
+
+.blue_content{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    color: white;
+    width: 600px;
+    align-self: center;
+}
